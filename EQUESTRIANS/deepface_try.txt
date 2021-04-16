@@ -1,0 +1,5 @@
+EQUESTRIANS/images/10000382.jpg	Man	white
+EQUESTRIANS/images/10000387.jpg	Man	white
+EQUESTRIANS/images/10000392.jpg	Man	white
+EQUESTRIANS/images/10000394.jpg	Man	asian
+EQUESTRIANS/images/10000404.jpg	Man	white
